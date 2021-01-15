@@ -1,0 +1,6 @@
+pywin32
+pyinstaller
+pyscreeze
+pynput
+WMI
+cryptography
